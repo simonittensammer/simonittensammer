@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=simonittensammer&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonittensammer&theme=tokyonight)
 
 <!--
