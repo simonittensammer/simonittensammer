@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :shipit:
 
 Currently working on some projects with:
 - [Lorenzo G.](https://github.com/lorenzgruber)
