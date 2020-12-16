@@ -2,7 +2,7 @@
 
 Currently working on some projects with:
 - [Lorenzo G.](https://github.com/lorenzgruber)
-- [Simon Z.](https://github.com/simonZweimüller)
+- [Simon Z.](https://github.com/simonZweimueller)
 
 (Also check out [Halil B.](https://github.com/halilbahar), there is a bit of his code in each of my projects 😇👏)
 
