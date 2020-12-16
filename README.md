@@ -1,10 +1,10 @@
 ### Hey there 👋
 
-Currently working on some projects with:
-- [Lorenzo G.](https://github.com/lorenzgruber)
-- [Simon Z.](https://github.com/simonZweimueller)
+🔭 I’m currently working on some projects with [Lorenzo G.](https://github.com/lorenzgruber) and [Simon Z.](https://github.com/simonZweimueller):
+- [cameleon](https://github.com/simonittensammer/cameleon)
+- [roomix](https://github.com/simonittensammer/roomix)
 
-(Also check out [Halil B.](https://github.com/halilbahar), there is a bit of his code in each of my projects 😇👏)
+🐻 Also check out [Halil B.](https://github.com/halilbahar), there is a bit of his code in each of my projects 😇👏
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simonittensammer&show_icons=true&theme=tokyonight)
