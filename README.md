@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Currently working on some projects with:
+- [Lorenzo G.](https://github.com/lorenzgruber)
+- [Simon Z.](https://github.com/simonZweimüller)
+
+(Also check out [Halil B.](https://github.com/halilbahar), there is a bit of his code in each of my projects 😇👏)
+
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simonittensammer&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonittensammer&theme=tokyonight)
