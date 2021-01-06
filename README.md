@@ -7,7 +7,7 @@
 🐻 Also check out [Halil B.](https://github.com/halilbahar), there is a bit of his code in each of my projects 😇👏
 
 :chart_with_upwards_trend: My biggest achievement yet? Propably this:
-(achievement)[https://raw.githubusercontent.com/simonittensammer/simonittensammer/main/images/achievement.png]
+![achievement](https://raw.githubusercontent.com/simonittensammer/simonittensammer/main/images/achievement.png)
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simonittensammer&show_icons=true&theme=tokyonight)
